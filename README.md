@@ -26,7 +26,8 @@ A simple 1-Bit memory latch (SR Flip-Flop) built in **Roblox: Build a Boat for T
 3. **Wire the Circuit**: Use the **Wrench Tool** to connect all components, making sure to cross-connect the circuit boards to each other on both sides.
 
 That's it! You now have a functional **SR Flip-Flop** memory cell in BABFT.
-
+## you can add friends on roblox
+**xd11072**
 ---
 
 ## 👤 Author
