@@ -19,7 +19,7 @@ A simple 1-Bit memory latch (SR Flip-Flop) built in **Roblox: Build a Boat for T
 
 ## 🚀 How to Build (Step-by-Step)
 
-![In-Game Setup](images/in_game_setup.png)
+![In-Game Setup](Screenshot_20260917_182338_com.roblox.client.jpg)
 
 1. **Place Components**: Lay out the switches, logic blocks, and light bulbs on your plot exactly as shown in the picture.
 2. **Configure Gate Modes**: Use the **Screwdriver Tool** on the logic blocks to enable both **OR** and **NOT** modes on both sides.
