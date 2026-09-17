@@ -13,7 +13,7 @@ A simple 1-Bit memory latch (SR Flip-Flop) built in **Roblox: Build a Boat for T
 
 ## 📐 Logic Circuit Diagram
 
-![SR Latch Schematic](images/sr_latch_schematic.png)
+![SR Latch Schematic](IMG_ed0b2827-e229-4277-88dc-612c6417ad46.png)
 
 ---
 
