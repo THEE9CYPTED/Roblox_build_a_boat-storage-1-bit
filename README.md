@@ -27,6 +27,9 @@ A simple 1-Bit memory latch (SR Flip-Flop) built in **Roblox: Build a Boat for T
 
 That's it! You now have a functional **SR Flip-Flop** memory cell in BABFT.
 
+## waring ⚠️
+*The information might be incorrect; you should double-check it.*
+
 ## you can add friends on roblox
 *xd11072*
 
